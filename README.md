@@ -7,7 +7,7 @@ If you have a tool that you would like to contribute to the Hive Community Tool 
 # Hive Community Tool Chest
 A list of current Hive Community tools 
 
-### Community Power BI Dashboard
+### 1. Community Power BI Dashboard
 The Community Power BI Dashboard allows community managers to visualize their community activity based on queries to HiveSQL.
 
 ### About Hive
