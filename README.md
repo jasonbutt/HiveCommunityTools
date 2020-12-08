@@ -1,6 +1,6 @@
 # HiveCommunityTools
 
-This is an open source repository for tools that will assist Hive Community owners to run and manage their communities. 
+This is an open source repository for tools that will assist Hive Community owners in running and managing their communities. 
 
 If you have a tool that you would like to contribute to the Hive Community Tool kit please contact me or submit a pull for review.
 
